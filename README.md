@@ -1,4 +1,6 @@
-# Company Corporation LLC ArtFair
+# artfair
+
+a collaborative drawing experience for improving interpersonal skills
 
 ## About
 
