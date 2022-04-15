@@ -1,5 +1,7 @@
 # Company Corporation LLC ArtFair
 
+## About
+
 ArtFair is an online collaborative drawing experience centered around the idea of a shared canvas where team members may work together to create pieces of art. ArtFair facilitates team building through several fun activites that focus on various interpersonal skills, discussion questions that spark reflective conversation, and tangible artifacts that serve as lasting memories of the experience.
 
 ![screenshot](screenshot.jpg)
